@@ -39,6 +39,9 @@ This is basically just an extension of the jupyter/pyspark docker.
 4.) Stop the container  
 >> ``docker kill aacn``  
 
+More Info:
+* https://jupyter-docker-stacks.readthedocs.io/en/latest/using/specifics.html#apache-spark
+
 ## Architecture  
 -- Dashboard --   
 Plotly Dash - React based tool to build dashboards  
